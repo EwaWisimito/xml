@@ -1,11 +1,14 @@
 <xml>
+
 <?xml version="1.0" encoding="UTF-8"?>
 
 <root>
-<testCases>
-<case> </case>
-<case> </case>
-</testCases>
+ <testCases id="testCase" result="error">
+    <inputTekst>Ewa</inputTekst>
+    <inputDate>20-01-2022</inputDate>
+    <inputOption>Save</inputOption>
+ </testCases>
 
 </root>
+
 </xml>
